@@ -123,7 +123,7 @@ export default function App() {
             })}
           </div>
           <button onClick={fetch_img}
-            className="w-full md:w-[465px] my-3 md:my-3.5 hover:bg-amber-800 bg-amber-300 rounded-xl hover:text-amber-200 text-amber-800 border-[3px] border-amber-800 px-4 py-2 md:py-1.5 uppercase text-lg md:text-xl font-bold">Next</button>
+            className="w-full md:w-[465px] my-3 md:my-3.5 hover:bg-amber-800 bg-amber-300 rounded-xl hover:text-amber-200 text-amber-800 border-[3px] border-amber-800 px-4 py-2 md:py-1.5 uppercase text-lg md:text-xl font-bold">Next ➜</button>
         </div>
       </div>
     </div>
